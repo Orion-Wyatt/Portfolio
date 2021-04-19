@@ -23,11 +23,85 @@ hr {
     order: -1;
     background-color: #705d56;
     color: #f0f7f4;
-    height: 50px;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.logo {
+    border: 1px solid black;
+    order: 1;
+}
+
+.header-title {
+    order: 2;
+    text-align: center;
+    cursor: default;
+}
+
+.navigation {
+    order: 3;
+    position: relitive;
+    display: inline-block;
+    padding: 20px;
+}
+
+.dropbtn {
+    background-color: #705d56;
+    color: #f0f7f4;
+    border: none;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #32292f;
+    box-shadow: 0px 8px 16px 0px #705d56;
+    z-index: 1;
+    min-width: 160px;
+}
+
+.dropdown-content a {
+    color: #f0f7f4;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content p {
+    color: #f0f7f4;
+    padding: 3px 16px;
+    text-decoration: none;
+    display: block;
+    opacity: 50%;
+    cursor: default;
+}
+
+.dropdown-content hr {
+    background-color: #70abaf;
+    min-width: 85%;
+}
+
+.dropdown-content a:hover {
+    background-color: #99e1d9;
+    color: #32292f;
+}
+
+.navigation:hover .dropdown-content {
+    display: block;
+}
+
+.navigation:hover .dropbtn {
+    background-color: #99e1d9;
+    color: #32292f;
 }
 
 .body {
     order: 0;
+    color: #32292f;
 }
 
 .footer {
