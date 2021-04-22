@@ -1,0 +1,20 @@
+.vl {
+    border: 2px solid #705d56;
+    opacity: 0.5;
+    height: 200px;
+}
+
+.body h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.education {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.npa {
+    padding: 10px 10px;
+}
