@@ -8,6 +8,9 @@
 |![­](Document_assets/Umber.png "Umber")|**Umber**|`#705d56`|`112, 93, 86`|`0%, 17%, 23%, 56%`|`16°, 23%, 44%`|`16°, 13%, 39%`|
 
 # Asset List
-| Asset Name | Asset Type | Asset File Exstention | Asset Source | Asset Use |
-|:----------:|:----------:|:---------------------:|:------------:|:---------:|
-|temp|Image|`.png`|[www.flacticon.com](https://www.flaticon.com/free-icon/interface_1416553?term=add%20image&page=1&position=61&page=1&position=61&related_id=1416553&origin=tag)|**Temperrary image placeholder**|
+| Asset Name | Asset Type | Asset File Exstention | Asset Source |
+|:----------:|:----------:|:---------------------:|:------------:|
+|temp|Image|`.png`|[www.flacticon.com](https://www.flaticon.com/free-icon/interface_1416553?term=add%20image&page=1&position=61&page=1&position=61&related_id=1416553&origin=tag)|
+|logo-npa|Image|`.png`|[www.neneparkacademy.org](www.neneparkacademy.org)|
+|logo-cwa|Image|`.png`|[www.formthefuture.org.uk](https://formthefuture.org.uk/cwa-logo-centred-colour-face/)|
+|logo-tayros|Image|`.png`|[en-gb.facebook.com](https://en-gb.facebook.com/taylorrosettkw)|

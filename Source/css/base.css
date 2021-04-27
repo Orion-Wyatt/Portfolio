@@ -104,6 +104,10 @@ hr {
     color: #32292f;
 }
 
+.list-lv2 {
+    padding-top: 5px;
+}
+
 .footer {
     order: 3;
     background-color: #705d56;
