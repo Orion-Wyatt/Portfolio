@@ -9,14 +9,14 @@
     text-decoration: underline;
 }
 
-.education, .work-exp
+.sect
 {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
 }
 
-.npa, .cwa, .taylor-rose
+.topi
 {
     padding: 10px 10px;
 }

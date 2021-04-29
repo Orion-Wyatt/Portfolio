@@ -88,6 +88,7 @@ hr {
 .dropdown-content a:hover {
     background-color: #99e1d9;
     color: #32292f;
+    transition: 0.5s;
 }
 
 .navigation:hover .dropdown-content {
