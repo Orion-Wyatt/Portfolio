@@ -14,8 +14,3 @@
 |logo-npa|Image|`.png`|[neneparkacademy.org](www.neneparkacademy.org)|
 |logo-cwa|Image|`.png`|[formthefuture.org.uk](https://formthefuture.org.uk/cwa-logo-centred-colour-face/)|
 |logo-tayros|Image|`.png`|[en-gb.facebook.com](https://en-gb.facebook.com/taylorrosettkw)|
-|btn-bg-gaming|Image|`.jpg`|[intel.com](https://www.intel.com/content/www/us/en/gaming/resources/overview.html)|
-|btn-bg-coding|Image|`.png`|[forbes.com](https://www.forbes.com/sites/forbestechcouncil/2019/02/22/want-to-learn-coding-check-out-these-resources-recommended-by-tech-experts/)|
-|btn-bg-music|Image|`.jpg`|[kmuw.org](https://www.kmuw.org/post/migration-music-part-1-musical-space)|
-|btn-bg-food|Image|`.jpg`|[marigoldmaison.com](https://marigoldmaison.com/how-to-start-cooking-indian-cuisine-at-home-your-step-by-step-guide/)|
-|btn-bg-crafting|Image|`.jpg`|[positivephychology.com](https://positivepsychology.com/job-crafting/)|
