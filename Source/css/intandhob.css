@@ -2,14 +2,31 @@
     border: 2px solid #705d56;
     opacity: 0.5;
     height: 120px;
+    order: 2;
 }
 
-.body h1 {
+.layer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    justify-content: space-evenly;
+}
+
+.topic {
+    order: 1;
     text-align: center;
     text-decoration: underline;
+    align-self: center;
+    height: 120px;
+    
 }
 
-.al {
-    display: flex;
-    justify-content: center;
+.reason-one {
+    order: 3;
+}
+
+.reason-two {
+    order: 4;
 }
