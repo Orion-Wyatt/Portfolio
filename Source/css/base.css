@@ -114,6 +114,22 @@ hr {
     order: 3;
     background-color: #705d56;
     color: #f0f7f4;
+    text-align: center;
+}
+
+.footer a:link, a:visited {
+    text-decoration: none;
+    color: #f0f7f4;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-heading {
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+.footer-text {
+    font-size: 12px;
 }
 
 ::-webkit-scrollbar {
