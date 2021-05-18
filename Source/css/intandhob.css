@@ -7,26 +7,23 @@
 
 .layer {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: nowrap;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    justify-content: space-evenly;
 }
 
 .topic {
     order: 1;
     text-align: center;
     text-decoration: underline;
-    align-self: center;
-    height: 120px;
-    
+    align-self: center;    
 }
 
-.reason-one {
+.type {
     order: 3;
+    text-align: center;
 }
 
 .reason-two {
     order: 4;
+    text-align: center;
 }
