@@ -149,3 +149,7 @@ hr {
 ::-webkit-scrollbar-thumb:hover {
     background: #82bfb8;
 }
+
+.copyright {
+    font-size: 10px;
+}
