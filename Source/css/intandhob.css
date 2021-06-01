@@ -27,3 +27,13 @@
     order: 4;
     text-align: center;
 }
+
+.special {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.photo-caption {
+    font-size: 13px;
+}
